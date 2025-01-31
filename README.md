@@ -14,7 +14,7 @@ CS161 covers the fundamentals of computer science, focusing on problem-solving, 
 
 ## Projects
 
-### The Size of Numbers in C++
+### [The Size of Numbers in C++](./projects/size_of_numbers.cpp)
 Explore the size of different types of numbers in C++ by using preprocessor macros, `sizeof()`, and the `pow()` function. This project helps understand memory limitations in C++ and calculates values based on the size of data types.  
 
 #### Tasks:
@@ -22,11 +22,11 @@ Explore the size of different types of numbers in C++ by using preprocessor macr
 - Use `sizeof()` and `pow()` to calculate the size and limit of number types.
 - Implement program style guidelines with appropriate comments.
 
-[Project File](./projects/size_of_numbers.cpp)
+
 
 ---
 
-### Variables and Conditionals
+### [Variables and Conditionals](./projects/variables_and_conditionals.cpp)
 Create a text adventure game using if-statements and conditionals to design paths and random outcomes. Handle user input and implement a decision-making structure with nested if-statements.
 
 #### Tasks:
@@ -34,11 +34,10 @@ Create a text adventure game using if-statements and conditionals to design path
 - Implement a random element that influences the user's journey.
 - Ensure proper handling of user input and validation.
 
-[Project File](./projects/variables_and_conditionals.cpp)
 
 ---
 
-### Conditionals and Loops
+### [Conditionals and Loops](./projects/conditionals_and_loops.cpp)
 Design a card game similar to BlackJack, where players bet against the dealer and try to reach a total closer to 21 without busting. Handle multiple players, bets, and gameplay mechanics.
 
 #### Tasks:
@@ -46,11 +45,10 @@ Design a card game similar to BlackJack, where players bet against the dealer an
 - Handle user input for multiple players and bets.
 - Implement logic for the dealer's behavior and player outcomes.
 
-[Project File](./projects/conditionals_and_loops.cpp)
 
 ---
 
-### Functions
+### [Functions](./projects/functions.cpp)
 Create a program that calculates a business trip expense report. The program will handle expenses like airfare, car rental, meals, and hotel fees, with various reimbursement rules.
 
 #### Tasks:
@@ -58,7 +56,7 @@ Create a program that calculates a business trip expense report. The program wil
 - Calculate total expenses and reimbursements based on company policies.
 - Ensure proper validation of input and handling of invalid data.
 
-[Project File](./projects/functions.cpp)
+
 
 ---
 
@@ -74,15 +72,13 @@ This project includes two parts: Word Frequency and Recursive Fractals. For Word
 
 ---
 
-### 1D and 2D Arrays
+### [1D and 2D Arrays](./projects/heat_diffusion.cpp)
 Simulate heat diffusion using a 1D or 2D model. The program will calculate temperature diffusion over time using the explicit method for finite difference approximations.
 
 #### Tasks:
 - Simulate heat diffusion using arrays.
 - Implement the explicit method and calculate stability based on input parameters.
 - Handle 1D and 2D simulations and print results at each time interval.
-
-[Project File](./projects/heat_diffusion.cpp)
 
 
 ## Labs
